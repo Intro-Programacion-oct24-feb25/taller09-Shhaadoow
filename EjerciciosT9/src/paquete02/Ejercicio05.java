@@ -17,7 +17,10 @@ public class Ejercicio05 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      
+      Scanner entrada = new Scanner(System.in);
+      String[] dias = {"Lunes","Martes","Miercoles","Jueves","Viernes"};
+      int[] ventas = new int[5];
+      for ()
 
     }
 
