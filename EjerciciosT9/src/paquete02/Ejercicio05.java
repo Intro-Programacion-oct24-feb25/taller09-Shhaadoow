@@ -20,7 +20,13 @@ public class Ejercicio05 {
       Scanner entrada = new Scanner(System.in);
       String[] dias = {"Lunes","Martes","Miercoles","Jueves","Viernes"};
       int[] ventas = new int[5];
-      for ()
+      for (int i = 0; i < dias.length; i++){
+          System.out.printf("Ingrese la venta diaria: %s\n", dias[i]);
+          ventas[i] = entrada.nextInt();
+      }
+      for(int i = 0; i < dias.length; i++){
+          System.out.printf("%s $%s\n", dias[i], ventas[i]);
+      }
 
     }
 
