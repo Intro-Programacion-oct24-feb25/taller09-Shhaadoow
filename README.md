@@ -2,7 +2,7 @@
 ## Integrantes:
 ### Paulo Bustamante
 ### Ester Amoros
-### Andre Criollo
+### Andrea Criollo
 ### Pablo Ordóñez
 ## Construcción de programas usando arreglos unidimensionales
 
