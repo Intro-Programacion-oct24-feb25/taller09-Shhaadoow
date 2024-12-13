@@ -1,4 +1,9 @@
 # Taller 9 (Laboratorio)
+## Integrantes:
+### Paulo Bustamante
+### Ester Amoros
+### Andre Criollo
+### Pablo Ordóñez
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
